@@ -1,4 +1,3 @@
-# SpamSms
 figlet -f slant "welcome"|lolcat
 echo
 echo
